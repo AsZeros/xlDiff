@@ -19,9 +19,13 @@
 
 
 
-**xlDiff试图解决上述问题，以构建一个更加好用、易于理解、更有效率、资源优先的电子表格比对应用。**
+**xlDiff试图解决上述问题，以构建一个更加好用、易于理解、更有效率的电子表格比对应用。**
 
-![image-mainwindows-png](https://github.com/aszero-tech/xlDiff/blob/master/Help/images/image-mainwindows.png)
+![image-mainwindows-png](https://github.com/aszero-tech/xlDiff/blob/master/Help/images/image-mainwindows.png) 
+
+![image-mainwindows-osx-png](https://github.com/aszero-tech/xlDiff/blob/master/Help/images/image-mainwindows-osx.png)
+
+![image-result-png](https://github.com/aszero-tech/xlDiff/blob/master/Help/images/image-result.png)
 
 ## 核心概念
 
