@@ -23,7 +23,6 @@
 
 ![image-mainwindows-png](https://github.com/aszero-tech/xlDiff/blob/master/Help/images/image-mainwindows.png) 
 
-![image-mainwindows-osx-png](https://github.com/aszero-tech/xlDiff/blob/master/Help/images/image-mainwindows-osx.png)
 
 ![image-result-png](https://github.com/aszero-tech/xlDiff/blob/master/Help/images/image-result.png)
 
@@ -88,37 +87,22 @@
 ### 24.10.0.0
 
 - 支持简体中文版，包括xlDiff界面/Spreadsheet数据内容/数值格式
-
 - 支持读取xls和xlsx文件
-
 - 支持sheet的配对操作
-
   - 支持一次性清除全部sheet
-
   - 支持选择单个sheet进行比较
-
 - 支持sheet设置其列头信息：当前界面右边仅仅是数据预览和设置列头信息，最多显示前1000行，不代表数据未读取
-
 - 支持sheet中的列进行配对操作
-
   - 支持重新自动配对
   - 支持删除部分字段的配对
   - 支持按照序号而不是名称进行配对
-
 - 右键菜单支持忽略列的设置
-
 - 尽最大能力支持简体中文环境下单元格格式化值的准确性
-
 - 对于公式值不做计算，以读取时的文件中保存值为准，最大程度保证公式计算值准确性
-
 - 支持快速比较算法：当行和行之间的差异小于某一个阈值值，作为修改行，否则标记为删除行/增加行
-
 - 支持导出分析比较结果（本机需要有可以操作xls/xlsx的应用），用户可自行根据结果值最大程度还原原始数据以及差异数据
-
 - 仅支持单元格值的比较
-
 - 尽最大努力实现了性能和内存的优化
-
 - 仅支持windows 10 64位环境/windows 11 64位环境
 
   
